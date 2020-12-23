@@ -7,6 +7,7 @@ Inspired from @ptkdev
 `hippity hoppity your code is now my property lmao` [Source](https://www.youtube.com/watch?v=tdhGiWqS-y4)
 
 
+
 [![](https://img.shields.io/badge/OS-macOS%20Bug%20Sure-informational?style=flat&logo=apple&logoColor=white&color=AC4142)](https://www.apple.com/)
 [![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=AC4142)](https://python.org)
 [![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=AC4142)](https://code.visualstudio.com/)
@@ -17,6 +18,9 @@ Inspired from @ptkdev
 [![](https://img.shields.io/badge/-Telegram-informational?style=for-the-badge&logo=telegram&logoColor=white&color=0088cc)](https://t.me/dreamwhitedev)
 
 <hr>
+
+[![dreamwhite's github stats](https://github-readme-stats.vercel.app/api?username=dreamwhite)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## **Projects**
 
