@@ -1,6 +1,6 @@
 <div align="center">
 
-## **Ivan Cafiero (@dreamwhite)**
+## Ivan Cafiero (@dreamwhite)
 
 Inspired from @ptkdev
 
@@ -18,6 +18,8 @@ Inspired from @ptkdev
 [![](https://img.shields.io/badge/-Telegram-informational?style=for-the-badge&logo=telegram&logoColor=white&color=0088cc)](https://t.me/dreamwhitedev)
 
 <hr>
+
+## Stats
 
 [![dreamwhite's github stats](https://github-readme-stats.vercel.app/api?username=dreamwhite)](https://github.com/anuraghazra/github-readme-stats)
 
