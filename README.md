@@ -24,7 +24,7 @@ Inspired from @ptkdev
 [![dreamwhite's github stats](https://github-readme-stats.vercel.app/api?username=dreamwhite)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## **Projects**
+## Projects
 
 List of projects I made with love
 
@@ -39,3 +39,8 @@ List of projects I made with love
 
 <hr>
 </div>
+
+## Links you should really check out 100% 1!!11!
+
+- [https://pornhub.com](https://reddit.com/r/cats)
+- [Random mental-breakdown diary](https://t.me/robewtfdidream)
