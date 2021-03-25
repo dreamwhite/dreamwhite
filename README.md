@@ -43,4 +43,4 @@ List of projects I made with love
 ## Links you should really check out 100% 1!!11!
 
 - [https://pornhub.com](https://reddit.com/r/cats)
-- [Random mental-breakdown diary](https://t.me/robewtfdidream)
+- [Random mental-breakdown diary](https://t.me/weirdthingsofsdream)
